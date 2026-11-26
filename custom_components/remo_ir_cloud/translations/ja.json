@@ -1,0 +1,6 @@
+{
+  "config": {
+    "step": {"user": {"title": "Remo IR Cloud", "description": "Nature Remo クラウドAPIの信号を、ボタンとして管理するパネルを追加します。アクセストークンは、追加後にサイドバーのパネルで入力します。"}},
+    "abort": {"single_instance_allowed": "Remo IR Cloudは1つだけ追加できます。"}
+  }
+}

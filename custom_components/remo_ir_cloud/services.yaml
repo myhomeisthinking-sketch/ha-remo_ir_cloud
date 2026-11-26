@@ -1,0 +1,11 @@
+send_signal:
+  name: Send signal
+  description: Nature Remoクラウド経由で、信号を送信します。
+  fields:
+    signal_id:
+      name: Signal ID
+      description: 送信する信号のID
+      required: true
+      example: "00000000-0000-0000-0000-000000000000"
+      selector:
+        text:
